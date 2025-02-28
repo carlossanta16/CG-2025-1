@@ -9,6 +9,11 @@ Anexo el Gif de mi entrega:
 
 ![GifFinal](https://github.com/user-attachments/assets/6b205064-4847-47d2-a8d1-0001398c79fe)
 
+### Carlos Santaella
+
+Entrega Slash 
+
+![EntregaSlash](https://github.com/user-attachments/assets/f3a92faf-ee84-4604-98fc-e47fc4b78e0e)
 
 ## Miguel Escobar
 
