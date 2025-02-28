@@ -7,11 +7,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Slash1
+  m_Name: SlashHard
   m_Shader: {fileID: -6465566751694194690, guid: fbb873d1fadcb8e449c8d9926d093af2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _DISSOLVECHANNEL_A
   - _SURFACE_TYPE_TRANSPARENT
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -27,8 +28,16 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _AlphaMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 1ee66ea03aba9bb4d813727ece99be26, type: 3}
+        m_Texture: {fileID: 2800000, guid: a2a809f51fb0d7e4d861d472d798273e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisolveMap:
+        m_Texture: {fileID: 2800000, guid: fec58ecf6bb6a284b82316fd03a8b620, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -50,6 +59,8 @@ Material:
     - _Blend: 0
     - _CastShadows: 1
     - _Cull: 2
+    - _DISSOLVE: 0
+    - _DISSOLVECHANNEL: 3
     - _DstBlend: 10
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -59,7 +70,8 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _EmissionColor: {r: 136.32932, g: 0, b: 140.34758, a: 1}
+    - _EmissionColor: {r: 63.999996, g: 0, b: 3.163757, a: 1}
+    - _PsrticlesSoft: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1334120065410661796
