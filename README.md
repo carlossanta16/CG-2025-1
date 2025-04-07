@@ -1,7 +1,7 @@
 # CG-2025-1
 
 
-## Entregas
+## Entrega 1
 
 ### Mateo Jimenez Fama
 
@@ -20,3 +20,11 @@ Entrega Slash
 anexo gif de mi entrega:
 
 ![2025-02-28 03-25-09](https://github.com/user-attachments/assets/f913b827-37b2-42f8-b470-a6b18ea5f204)
+
+## Entrega 2
+
+### Miguel Escobar, Mateo Jimenez y Carlos Santaella
+
+* GIF de la Entrega 2:
+
+![Entrega 2](https://github.com/user-attachments/assets/5f05488b-c7e9-4e9b-9d69-5493f65c8a26)
