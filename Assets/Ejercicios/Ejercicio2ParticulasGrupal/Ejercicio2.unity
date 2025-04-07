@@ -14845,6 +14845,63 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!1001 &1521256351
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.67878914
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.728323
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a04135201c466374e9ea82783155fc9a, type: 3}
+      propertyPath: m_Name
+      value: Baseball Pitching
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a04135201c466374e9ea82783155fc9a, type: 3}
 --- !u!1 &1762379162
 GameObject:
   m_ObjectHideFlags: 0
@@ -15161,3 +15218,4 @@ SceneRoots:
   - {fileID: 741713382}
   - {fileID: 1810676251}
   - {fileID: 746074214}
+  - {fileID: 1521256351}
