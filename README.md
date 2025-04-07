@@ -27,4 +27,5 @@ anexo gif de mi entrega:
 
 * GIF de la Entrega 2:
 
-![Entrega 2](https://github.com/user-attachments/assets/5f05488b-c7e9-4e9b-9d69-5493f65c8a26)
+![AhoraSi](https://github.com/user-attachments/assets/18dd1ba3-776e-4667-856b-c52669d7e936)
+
