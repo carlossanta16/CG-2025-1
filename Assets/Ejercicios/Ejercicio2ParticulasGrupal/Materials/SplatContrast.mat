@@ -34,7 +34,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: a8b48ea8162918042b2bf675fde93d3b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 00ef5cb1ee96315459a478b746dc3ad1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DisolveMap:
@@ -72,7 +72,7 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _EmissionColor: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
-    - _PsrticlesSoft: {r: 0, g: 1, b: 0, a: 0}
+    - _PsrticlesSoft: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1334120065410661796
