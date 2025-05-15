@@ -47,4 +47,11 @@ Para la base texture utilicé una textura lo más parecida a humo, por eso se ve
 
 ![Polar](https://github.com/user-attachments/assets/069ac518-d0a5-4619-a702-b0a5925c89d9)
 
+## Entrega 3
+
+### Miguel Escobar
+
+![2025-05-14 22-15-25](https://github.com/user-attachments/assets/ee5bec5e-8fb1-4d19-98d8-d77e1f8419c9)
+
+
 
