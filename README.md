@@ -53,5 +53,21 @@ Para la base texture utilicé una textura lo más parecida a humo, por eso se ve
 
 ![2025-05-14 22-15-25](https://github.com/user-attachments/assets/ee5bec5e-8fb1-4d19-98d8-d77e1f8419c9)
 
+## Entrega 3
 
+### Mateo Jimenez Fama
 
+1. Refraction
+
+![image](https://github.com/user-attachments/assets/e7711c9d-b6e8-460f-824b-8b5b65894ccd)
+![Gif Refraccion](https://github.com/user-attachments/assets/092f962e-018d-4e71-b34d-2d6327f80291)
+
+2. Self Dissolve
+   
+   ![image](https://github.com/user-attachments/assets/aa045c83-317d-4dcc-92be-8b300925fc35)
+   ![Gif SelfDissolve](https://github.com/user-attachments/assets/692b3f8f-fff9-440d-9d84-44a8a603722d)
+
+4. MatCap
+
+   ![image](https://github.com/user-attachments/assets/026495c0-a4c7-4a6f-9b76-288e8c1746ec)
+   ![Gif Matcap](https://github.com/user-attachments/assets/798c689b-fe61-41ef-985e-67142d2ca724)
