@@ -71,3 +71,48 @@ Para la base texture utilicé una textura lo más parecida a humo, por eso se ve
 
    ![image](https://github.com/user-attachments/assets/026495c0-a4c7-4a6f-9b76-288e8c1746ec)
    ![Gif Matcap](https://github.com/user-attachments/assets/798c689b-fe61-41ef-985e-67142d2ca724)
+
+
+## Entrega 4 Grupal
+
+### Grupo : Miguel Escobar, Carlos Santaella, Mateo Jimenez 
+
+![ShaderAgua](https://github.com/user-attachments/assets/891201fd-e2c4-420d-b785-0bbd763bc2a2)
+
+Explicacion detallada de cada parametro:
+
+_Color: Color principal del agua cuando es poco profunda
+_DepthColor: Color del agua en zonas profundas
+_FoamColor: Color de la espuma que aparece en la superficie
+
+Texturas
+
+_NormalMap: Textura de normales que define el patrón de ondulaciones pequeñas
+_NoiseTexture: Textura de ruido utilizada para efectos aleatorios
+_FoamTexture: Textura que define el patrón de la espuma
+_Cubemap: Mapa de cubo para las reflexiones en el agua
+
+Parámetros de Ondas
+
+_WaveAmplitude: Altura de las ondas en la superficie del agua
+_WaveFrequency: Frecuencia de las ondas (cuántas ondas aparecen en un espacio)
+_WaveSpeed: Velocidad a la que se mueven las ondas
+
+Refracción y Reflexión
+
+_RefractionStrength: Intensidad del efecto de refracción (distorsión del fondo)
+_ReflectionStrength: Intensidad de las reflexiones del entorno
+_Glossiness: Suavidad de la superficie (afecta los brillos especulares)
+_FresnelPower: Potencia del efecto Fresnel que controla la visibilidad de las reflexiones según el ángulo de visión
+
+Profundidad
+
+_DepthDistance: Distancia a la que se mezcla el color superficial con el color profundo
+_DepthFalloff: Rapidez con la que cambia el color según la profundidad
+
+Espuma
+
+_IntersectionFoamDepth: Distancia a la que aparece la espuma en intersecciones con objetos
+_FoamCutoff: Umbral para determinar dónde aparece la espuma (valores más altos = menos espuma)
+_FoamScale: Tamaño de los patrones de espuma
+_WaveFoamCutoff: Umbral para la espuma que aparece en las crestas de las olas
